@@ -238,7 +238,7 @@ static const char *dmenucmd[] = {
 	NULL
 };
 static const char *termcmd[]  = { "st", NULL };
-static const char *slockcmd[]  = { "/home/soporose/.dwm/slockcmd.sh", NULL };
+static const char *slockcmd[]  = { "slock", NULL };
 
 
 
